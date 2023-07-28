@@ -35,7 +35,7 @@ You can also reach me on other platforms:
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://medium.com/@mmchaudhary16">
-  <img src="https://i.ibb.co/K6RVKL0/medium-logo.png" alt="Medium Profile" width="75" />
+  <img src="https://i.ibb.co/K6RVKL0/medium-logo.png" alt="Medium" width="75" />
 </a>
 
 
