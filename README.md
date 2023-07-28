@@ -26,7 +26,6 @@ Thanks for dropping by! Feel free to take a look around and give my projects a s
 
 You can also reach me on other platforms:
 
-
 <a href="https://www.linkedin.com/in/madhumitach/">
   <img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="LinkedIn Profile" width="100" />
 </a>
@@ -36,7 +35,8 @@ You can also reach me on other platforms:
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://medium.com/@mmchaudhary16">
-  <img src="https://miro.medium.com/fit/c/256/256/1*NhAb27K04kVLHdAGJI-FXA.jpeg" alt="Medium Profile" width="75" />
+  <img src="https://i.ibb.co/K6RVKL0/medium-logo.png" alt="Medium Profile" width="75" />
 </a>
+
 
 
