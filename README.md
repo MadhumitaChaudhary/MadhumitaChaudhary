@@ -20,7 +20,7 @@ I recently completed my PG Diploma in Data Science & Business Analytics.[Click H
 
 ### 📝 Resume
 
-Download my resume [here](https://drive.google.com/file/d/11jUXSC73s9Uw38Gz2iljbsMUyQO-7xws/view?usp=sharing)
+Download my resume [here]([https://drive.google.com/file/d/11jUXSC73s9Uw38Gz2iljbsMUyQO-7xws/view?usp=sharing](https://drive.google.com/file/d/1ahn6UOyNVhDZxQLtu4k5C1IfopnmqOog/view?usp=drive_link))
 
 Thanks for dropping by! Feel free to take a look around and give my projects a star if you find them interesting.
 
