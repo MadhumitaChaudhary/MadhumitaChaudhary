@@ -27,6 +27,9 @@ Thanks for dropping by! Feel free to take a look around and give my projects a s
 You can also reach me on other platforms:
 
 
-<a href="https://www.linkedin.com/in/madhumitach/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.kaggle.com/madhumitachaudhary"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/>
+<a href="https://www.linkedin.com/in/madhumitach/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.kaggle.com/madhumitachaudhary"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/><a href="https://medium.com/@mmchaudhary16">
+  <img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/medium_logo_kzfggk.png" alt="Medium Profile" width="75" />
+</a>
+
 
 
